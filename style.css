@@ -219,6 +219,46 @@ h3 {
     margin-right: 12px;
 }
 
+/* ===== Teaching Section ===== */
+.teaching-category {
+    margin-bottom: 32px;
+}
+
+.teaching-category:last-child {
+    margin-bottom: 0;
+}
+
+.teaching-list {
+    list-style: none;
+    padding: 0;
+}
+
+.teaching-list li {
+    padding: 6px 0;
+    font-size: 16px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.teaching-list li:last-child {
+    border-bottom: none;
+}
+
+.course-name {
+    font-weight: 600;
+    color: #222;
+}
+
+.course-role {
+    color: #666;
+    font-size: 15px;
+}
+
+.course-term {
+    float: right;
+    color: #888;
+    font-size: 14px;
+}
+
 /* ===== CV Section ===== */
 .cv-link {
     font-weight: 600;
