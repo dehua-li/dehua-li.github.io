@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dehua-li.github.io/sitemap.xml
