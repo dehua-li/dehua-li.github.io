@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/edward/Documents/personal_website/*.pdf)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://dehua-li.github.io/sitemap.xml)"
+    ]
+  }
+}
