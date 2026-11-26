@@ -213,7 +213,11 @@ h3 {
 }
 
 .paper-links a {
-    margin-right: 12px;
+    text-decoration: underline;
+}
+
+.paper-links a + a {
+    margin-left: 0.3em;
 }
 
 /* ===== Teaching Section ===== */
